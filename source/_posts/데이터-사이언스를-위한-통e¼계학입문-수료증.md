@@ -7,4 +7,6 @@ tags: R
 
 https://pabi.smartlearn.io/certificates/45cd0c85f0364738a196e75de7f1b456
 
+## 2단계 수료증
 
+https://pabi.smartlearn.io/certificates/41b3e499fd7745b3bcbc62b8592793e5
