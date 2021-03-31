@@ -12,7 +12,7 @@ tags: C++
 - 0을 입력하면 종료
 - 외 숫자 입력 시 예외출력
 
-```
+```c++
 #include <iostream>
 #include <string>
 #include <random>
