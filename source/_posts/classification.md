@@ -619,11 +619,12 @@ plt.show()
 ```
 
     그림 저장: precision_recall_vs_threshold_plot
-    
 
 
-    
-![png](../image/output_67_1.png)
+
+
+![output_67_1](https://user-images.githubusercontent.com/59479116/118432693-3d439400-b714-11eb-8e2e-779ab4b47251.png)
+
     
 
 
