@@ -623,7 +623,7 @@ plt.show()
 
 
 
-![output_67_1](https://user-images.githubusercontent.com/59479116/118432693-3d439400-b714-11eb-8e2e-779ab4b47251.png)
+![output_67_1](../image/output_67_1.png)
 
     
 
@@ -810,12 +810,12 @@ plt.show()
 ```
 
     그림 저장: roc_curve_comparison_plot
-    
 
 
-    
+
+ 
 ![png](../image/output_86_1.png)
-    
+
 
 
 ROC 곡선 비교 : 랜덤 포레스트 분류기가 SGD 분류기보다 훨씬 좋습니다. 랜덤 포레스트의 ROC 곡선이 왼쪽 위 모서리에 더 가까워 AUC값이 크기 때문
