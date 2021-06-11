@@ -13,7 +13,7 @@ ggplot(PlantGrowth,
                      breaks = c(1, 3, 5, 7, 9), # 축의 숫자 지정
                      labels = c("1st", "three", "five", "seven", "nine"))   
 ```
-![](../image/834e0eea-c2a5-457f-8db3-5be48606f893.png)
+![834e0eea-c2a5-457f-8db3-5be48606f893](https://user-images.githubusercontent.com/59479116/121620298-0eb3a180-caa5-11eb-8016-c53d09960339.png)
 
 ### 범주형 축 항목 순서 변경하기
 ```r
@@ -23,5 +23,5 @@ ggplot(PlantGrowth, aes(x = group, weight)) +
   scale_x_discrete(limits = c("trt1", "ctrl"))
 ```
 
-![](../image/70048f9e-2d1b-4ae3-9cec-81d31bf5bdcd.png)
+![70048f9e-2d1b-4ae3-9cec-81d31bf5bdcd](https://user-images.githubusercontent.com/59479116/121620331-1c692700-caa5-11eb-8d53-45f8d27e2ff5.png)
 

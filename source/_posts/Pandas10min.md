@@ -3590,8 +3590,8 @@ ts.plot()
 
 
 
-    
-![png](../image/output_147_1.png)
+
+![output_147_1](https://user-images.githubusercontent.com/59479116/121620979-3fe0a180-caa6-11eb-8d29-191d690ca6ac.png)
     
 
 
@@ -3624,8 +3624,8 @@ plt.legend(loc='best')
 
 
 
-    
-![png](../image/output_149_2.png)
+
+![output_149_2](https://user-images.githubusercontent.com/59479116/121621006-4ec75400-caa6-11eb-911f-6208df93ffeb.png)
     
 
 

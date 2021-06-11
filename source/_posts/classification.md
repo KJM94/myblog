@@ -138,11 +138,11 @@ plt.show()
 ```
 
     그림 저장: some_digit_plot
-    
 
 
-    
-![png](../image/output_9_1.png)
+
+
+![output_9_1](https://user-images.githubusercontent.com/59479116/121621117-7e765c00-caa6-11eb-9c13-b99a7eb4d3d5.png)
     
 
 
@@ -205,11 +205,11 @@ plt.show()
 ```
 
     그림 저장: more_digits_plot
-    
 
 
-    
-![png](../image/output_16_1.png)
+
+
+![output_16_1](https://user-images.githubusercontent.com/59479116/121621140-8930f100-caa6-11eb-91d0-e9aa605f5868.png)
     
 
 
@@ -623,7 +623,7 @@ plt.show()
 
 
 
-![output_67_1](../image/output_67_1.png)
+![output_67_1](https://user-images.githubusercontent.com/59479116/121621174-9a79fd80-caa6-11eb-8b7d-3a3c8c3f3517.png)
 
     
 
@@ -659,11 +659,11 @@ plt.show()
 ```
 
     그림 저장: precision_vs_recall_plot
-    
 
 
-    
-![png](../image/output_69_1.png)
+
+
+![output_69_1](https://user-images.githubusercontent.com/59479116/121621185-a36acf00-caa6-11eb-88ed-2ca7840dbf66.png)
     
 
 
@@ -745,11 +745,11 @@ plt.show()
 ```
 
     그림 저장: roc_curve_plot
-    
 
 
-    
-![png](../image/output_77_1.png)
+
+
+![output_77_1](https://user-images.githubusercontent.com/59479116/121621206-abc30a00-caa6-11eb-92a2-28a9c0f18a95.png)
     
 
 
@@ -813,8 +813,8 @@ plt.show()
 
 
 
- 
-![png](../image/output_86_1.png)
+
+![output_86_1](https://user-images.githubusercontent.com/59479116/121621217-b5e50880-caa6-11eb-8b4a-5829dc4f2f84.png)
 
 
 
@@ -1070,11 +1070,11 @@ plt.show()
 ```
 
     그림 저장: confusion_matrix_plot
-    
 
 
-    
-![png](../image/output_118_1.png)
+
+
+![output_118_1](https://user-images.githubusercontent.com/59479116/121621233-c2696100-caa6-11eb-9607-0f84ead326a5.png)
     
 
 
@@ -1100,11 +1100,11 @@ plt.show()
 ```
 
     그림 저장: confusion_matrix_errors_plot
-    
 
 
-    
-![png](../image/output_123_1.png)
+
+
+![output_123_1](https://user-images.githubusercontent.com/59479116/121621251-ca290580-caa6-11eb-9a44-67eb8eff15ec.png)
     
 
 
@@ -1128,11 +1128,11 @@ plt.show()
 ```
 
     그림 저장: error_analysis_digits_plot
-    
 
 
-    
-![png](../image/output_125_1.png)
+
+
+![output_125_1](https://user-images.githubusercontent.com/59479116/121621279-d57c3100-caa6-11eb-9251-2484cfa893dd.png)
     
 
 
@@ -1229,11 +1229,11 @@ plt.show()
 ```
 
     그림 저장: noisy_digit_example_plot
-    
 
 
-    
-![png](../image/output_141_1.png)
+
+
+![output_141_1](https://user-images.githubusercontent.com/59479116/121621295-df9e2f80-caa6-11eb-8c02-bb6fd1adda82.png)
     
 
 
@@ -1248,11 +1248,11 @@ save_fig("cleaned_digit_example_plot")
 ```
 
     그림 저장: cleaned_digit_example_plot
-    
 
 
-    
-![png](../image/output_143_1.png)
+
+
+![output_143_1](https://user-images.githubusercontent.com/59479116/121621316-e88f0100-caa6-11eb-8631-5cc95b9e3735.png)
     
 
 

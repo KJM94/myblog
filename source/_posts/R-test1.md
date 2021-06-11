@@ -39,7 +39,7 @@ ggplot(data = counties, # 데이터
            colour = region)) # 색상 = region 4개
 geom_point()
 ```
-![](../image/000002.png)
+![000002](https://user-images.githubusercontent.com/59479116/121620214-e1ff8a00-caa4-11eb-9698-91fc34fec3df.png)
 
 ## dplyr 함수를 활용하여, 아래 데이터 요약
 - counties 데이터를 활용합니다.
@@ -69,5 +69,5 @@ ggplot(final_df, aes(x = state, y = total_men)) +
 geom_col()
 ```
 
-![](../image/000003.png)
+![000003](https://user-images.githubusercontent.com/59479116/121620233-efb50f80-caa4-11eb-9dd1-fb8767099e8b.png)
 
