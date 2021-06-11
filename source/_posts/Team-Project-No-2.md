@@ -8,6 +8,8 @@ tags: python
 
 ## 2. 한국 부동산 데이터 시각화 경진대회
 
+![데이콘_대회명](https://user-images.githubusercontent.com/59479116/121624642-d6b05c80-caac-11eb-8244-4965e79fe84e.png)
+
 - 언어 및 작업툴: Python, Tableau
 - 인원: 3명
 - 기간: 2021.04.21 - 2021.05.26
