@@ -18,5 +18,7 @@ tags: python
 - 기여: pycaret모델 만들기 및 파라미터 모델튜닝
 - 결과: 1,244팀중 348등(TOP28%) 최종점수 - 0.80418
 
-https://github.com/KJM94/Team_project/blob/main/ppt/titanic_TeamProj_final-.pdf
+소스코드 : https://www.kaggle.com/kwonjungmin/titanic-visualization-bayesian-optimization
+
+pdf : https://github.com/KJM94/Team_project/blob/main/ppt/titanic_TeamProj_final-.pdf
 

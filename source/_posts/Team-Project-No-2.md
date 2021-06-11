@@ -17,3 +17,7 @@ tags: python
   한국의 부동산 데이터와 사용자가 직접 수집한 외부 데이터를 활용하여 부동산 가격 변화 및 사회와의 관련성을 분석
 - 기여: 준공실적, 분양실적 이중축 라인, 막대 그래프 시각화
 - 결과: 
+
+Tableau : https://dacon.io/competitions/official/235724/codeshare/2675
+
+pdf : https://github.com/KJM94/Team_project/blob/main/%EB%8D%B0%EC%9D%B4%EC%BD%98_%EB%B6%80%EB%8F%99%EC%82%B0_%EC%8B%9C%EA%B0%81%ED%99%94/%EB%8D%B0%EC%9D%B4%EC%BD%98-%EC%8B%9C%EA%B0%81%ED%99%94-%EC%B5%9C%EC%A2%85_%ED%85%94%EB%A0%88%ED%86%A0%EB%B9%84%EC%A1%B0%EC%A7%81%EB%8B%A8.pdf
