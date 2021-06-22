@@ -2,6 +2,8 @@
 title: Random Game 2
 date: 2021-03-27 19:56:19
 tags: C++
+categories:
+    - C++
 ---
 
 ## 동전 던지기 게임

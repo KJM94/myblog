@@ -2,6 +2,8 @@
 title: Data Swap
 date: 2021-04-01 09:08:34
 tags: C++
+categories:
+    - C++
 ---
 
 ## 데이터 변환

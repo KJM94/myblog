@@ -2,6 +2,8 @@
 title: Rshiny setup
 date: 2021-03-25 17:08:18
 tags: R
+categories:
+    - R
 ---
 
 ## R shiny setup setting

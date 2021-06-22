@@ -2,6 +2,8 @@
 title: R-ggplot No.1
 date: 2021-03-24 15:40:25
 tags: R
+categories:
+    - R
 ---
 
 ### 눈금 표시 방법

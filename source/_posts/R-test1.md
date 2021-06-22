@@ -2,6 +2,8 @@
 title: R test1
 date: 2021-03-23 16:21:09
 tags: R
+categories:
+    - R
 ---
 
 ## 패키지 설치 방법

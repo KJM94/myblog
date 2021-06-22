@@ -2,6 +2,8 @@
 title: "[Deep Learning] YOLO, YOLOv2 and YOLOv3 비교"
 date: 2021-06-01
 tags: DL
+categories:
+    - Python
 ---
 
 *references* 

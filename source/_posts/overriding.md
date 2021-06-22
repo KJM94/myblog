@@ -2,6 +2,8 @@
 title: overriding
 date: 2021-03-28 14:34:16
 tags: C++
+categories:
+    - C++
 ---
 
 ## 함수 오버라이딩

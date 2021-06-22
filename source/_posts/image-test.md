@@ -2,6 +2,8 @@
 title: image upload
 date: 2021-03-23 12:39:44
 tags: R
+categories:
+    - R
 ---
 #이미지 올리기
 

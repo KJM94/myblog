@@ -2,6 +2,8 @@
 title: Bayesian Optimization
 date: 2021-04-29 11:34:54
 tags: python
+categories:
+    - Python
 ---
 
 # 베이지안 최적화

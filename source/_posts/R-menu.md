@@ -2,6 +2,8 @@
 title: R aes
 date: 2021-03-23 12:19:54
 tags: R
+categories:
+    - R
 ---
 
 getwd() 위치확인

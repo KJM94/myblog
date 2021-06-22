@@ -2,6 +2,8 @@
 title: git clone
 date: 2021-03-23 11:52:27
 tags: git
+categories:
+    - Git
 ---
 
 ```git

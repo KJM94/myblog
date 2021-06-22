@@ -2,6 +2,8 @@
 title: Random game 1
 date: 2021-03-23 21:55:42
 tags: C++
+categories:
+    - C++
 ---
 
 ## 가위바위보

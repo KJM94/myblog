@@ -2,6 +2,8 @@
 title: twitter API prac
 date: 2021-03-26 16:21:30
 tags: R
+categories:
+    - R
 ---
 
 # 트위터 API 인증

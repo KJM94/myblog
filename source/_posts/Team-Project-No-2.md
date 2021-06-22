@@ -1,7 +1,10 @@
 ---
 title: Team_Project_No.2
 date: 2021-05-20 00:07:54
-tags: python
+tags: Project
+categories:
+  - Project
+  - Dacon
 ---
 
 # Team_project 2

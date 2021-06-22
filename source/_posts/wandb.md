@@ -1,7 +1,7 @@
 ---
 title: wandb
 date: 2021-06-10 12:14:14
-tags: Toll
+tags: Tool
 ---
 
 # wandb 설치

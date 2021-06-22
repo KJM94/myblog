@@ -2,6 +2,8 @@
 title: base guide
 date: 2021-03-23 11:57:22
 tags: git
+categories:
+    - Git
 ---
 
 # 깃허브에 소스 업로드

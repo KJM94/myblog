@@ -1,7 +1,10 @@
 ---
 title: Team_Project_No.1
 date: 2021-05-13 09:04:45
-tags: python
+tags: Project
+categories:
+  - Project
+  - Kaggle
 ---
 
 # Team_project 1

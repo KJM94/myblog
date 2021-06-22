@@ -2,6 +2,8 @@
 title: loss
 date: 2021-05-31 10:50:39
 tags: python
+categories:
+    - Python
 ---
 
 # 손실함수(loss)

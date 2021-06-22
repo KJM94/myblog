@@ -1,7 +1,10 @@
 ---
 title: Team_Project_No.3
 date: 2021-06-04 13:54:29
-tags: python
+tags: Project
+categories:
+    - Project
+    - Dacon
 ---
 
 # Team Project 3

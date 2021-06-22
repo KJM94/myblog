@@ -2,6 +2,8 @@
 title: Feature Engineering
 date: 2021-04-08 21:48:11
 tags: python
+categories:
+    - Python
 ---
 
 1) 데이터 수집

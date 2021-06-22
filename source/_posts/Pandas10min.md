@@ -2,6 +2,9 @@
 title: Pandas10min
 date: 2021-04-07 23:07:07
 tags: python
+categories:
+    - Python
+
 ---
 
 # Pandas new users

@@ -2,6 +2,8 @@
 title: 회귀분석
 date: 2021-04-16 15:55:45
 tags: R
+categories:
+    - R
 ---
 
 # 회귀분석

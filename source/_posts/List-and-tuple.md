@@ -2,6 +2,8 @@
 title: List and tuple
 date: 2021-04-06 12:19:17
 tags: python
+categories:
+  - Python
 ---
 
 # 리스트와 튜플

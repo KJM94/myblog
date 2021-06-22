@@ -2,6 +2,8 @@
 title: practice
 date: 2021-03-22 11:21:48
 tags: python
+categories:
+    - Python
 ---
 
 

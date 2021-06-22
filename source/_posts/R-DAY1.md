@@ -2,6 +2,8 @@
 title: R-DAY1
 date: 2021-03-22 14:28:16
 tags: R
+categories:
+    - R
 ---
 
 ```R

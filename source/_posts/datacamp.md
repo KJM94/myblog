@@ -2,6 +2,8 @@
 title: datacamp
 date: 2021-03-26 21:58:34
 tags: R
+categories:
+    - R
 ---
 ##R 코딩 연습
 

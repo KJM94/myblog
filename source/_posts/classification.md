@@ -2,6 +2,8 @@
 title: classification
 date: 2021-04-13 16:58:58
 tags: python
+categories:
+    - Python
 ---
 
 

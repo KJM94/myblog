@@ -2,6 +2,8 @@
 title: Adoring
 date: 2021-03-22 11:26:06
 tags: C++
+categories:
+    - C++
 ---
 ```c++
 #include <iostream>
