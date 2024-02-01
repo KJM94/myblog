@@ -100,3 +100,5 @@ changpoints는 자동 탐지되며, 실제 적용 시에는 그 정도(flexibili
 출처 : https://slowsteadystat.tistory.com/7
 <br>
 참고자료 : https://facebook.github.io/prophet/docs/quick_start.html
+<br>
+직접 작성해본 코드 : https://github.com/KJM94/career/blob/main/py/Prophet.ipynb
