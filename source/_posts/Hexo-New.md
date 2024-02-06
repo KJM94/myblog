@@ -61,7 +61,7 @@ author: YourName
 ```
 - 블로그 URL 설정
 ```
-url: https://rain0430.github.io
+url: https://id.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -71,7 +71,7 @@ permalink_defaults:
 # Deployment
 deploy:
   type: git
-  repo: https://github.com/rain0430/rain0430.github.io.git
+  repo: https://github.com/id/id.github.io.git
   branch: main
 ```
 
