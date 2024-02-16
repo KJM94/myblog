@@ -55,4 +55,4 @@ plt.legend()
 plt.show()
 ```
 
-![](../image/s.PNG)
+![](/image/s.PNG)
