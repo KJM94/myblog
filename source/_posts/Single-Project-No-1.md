@@ -7,5 +7,7 @@ categories:
     - Dacon
 ---
 # 소득 예측 AI 해커톤
+
+![](/image/dact.PNG)
 (진행중)<br>
 https://dacon.io/myprofile/422749/competition
