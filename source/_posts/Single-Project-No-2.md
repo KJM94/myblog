@@ -15,4 +15,6 @@ categories:
     RF(랜덤포레스트) 하이퍼파라미터 최적화
 - 결과: 436명 중 104등 최종점수 - 0.80758
 
+상세 페이지 : https://dacon.io/competitions/official/236229/overview/description
+
 코드 : https://github.com/KJM94/PYTHON_P/blob/main/pym/baseline%20(1).ipynb
