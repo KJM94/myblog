@@ -17,4 +17,4 @@ categories:
 
 상세 페이지 : https://dacon.io/competitions/official/236229/overview/description
 
-코드 : https://github.com/KJM94/PYTHON_P/blob/main/pym/baseline%20(1).ipynb
+코드 : https://github.com/KJM94/Single_project/blob/main/%EB%AA%A8%EB%8D%B8_%ED%8A%9C%EB%8B%9D_%EC%B1%8C%EB%A6%B0%EC%A7%80_RF_%ED%95%98%EC%9D%B4%ED%8D%BC%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0_%EC%B5%9C%EC%A0%81%ED%99%94/baseline_(1).ipynb
