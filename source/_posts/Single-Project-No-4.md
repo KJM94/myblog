@@ -12,4 +12,4 @@ categories:
 
 상세페이지 : https://dacon.io/competitions/official/236263/leaderboard
 
-코드 : https://github.com/KJM94/Single_project/blob/main/KPI_%EB%8F%84%EC%B6%9C_%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4_%EC%A0%84%EB%9E%B5_%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/baseline_(2).ipynb
+코드 : https://github.com/KJM94/Single_project/blob/main/%EA%B2%B0%EC%B8%A1%EC%B9%98%20%EB%B3%B4%EA%B0%84%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%3A%20%EC%9B%94%EA%B0%84%20%EB%8D%B0%EC%9D%B4%EC%BD%98%20%ED%8C%8C%EC%9D%BC%EB%9F%BF/baseline_(3).ipynb
