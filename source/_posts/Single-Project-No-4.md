@@ -13,7 +13,7 @@ categories:
 - 언어 및 작업툴: Python
 - 내용
     단변량 시계열 데이터에 존재하는 결측치를 최대한 실제값과 유사하도록 보간
-- 결과:
+- 결과: (276/38)
 
 상세페이지 : https://dacon.io/competitions/official/236263/leaderboard
 
