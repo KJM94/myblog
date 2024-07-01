@@ -10,4 +10,13 @@ categories:
 
 ![](/image/webgi.PNG)
 
+- 언어 및 작업툴: Python
+- 내용
+    단변량 시계열 데이터에 존재하는 결측치를 최대한 실제값과 유사하도록 보간
+- 결과: 341명 중 47 최종점수 - 0.2930260047
+
 상세페이지 : https://dacon.io/competitions/official/236290/overview/description
+
+코드 : https://github.com/KJM94/Single_project/blob/main/%EC%9B%B9%20%EA%B8%B0%EC%82%AC%20%EC%B6%94%EC%B2%9C%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/baseline_(5).ipynb
+
+https://github.com/KJM94/Single_project/tree/main/%EC%9B%B9%20%EA%B8%B0%EC%82%AC%20%EC%B6%94%EC%B2%9C%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C
