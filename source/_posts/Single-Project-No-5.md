@@ -12,7 +12,7 @@ categories:
 
 - 언어 및 작업툴: Python
 - 내용
-    단변량 시계열 데이터에 존재하는 결측치를 최대한 실제값과 유사하도록 보간
+    웹 기사 조회 로그 데이터를 기반으로 사용자에게 맞춤형 기사를 추천하는 AI 알고리즘 개발
 - 결과: 341명 중 47 최종점수 - 0.2930260047
 
 상세페이지 : https://dacon.io/competitions/official/236290/overview/description
