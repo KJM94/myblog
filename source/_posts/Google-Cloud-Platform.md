@@ -91,4 +91,35 @@ CPU를 높게 잡고 싶은 경우에는 '컴퓨팅 최적화' 탭에서 "C2"를
 
 12. 화면 맨 아래 있는 "만들기" 버튼을 클릭합니다.
 
-계속
+④ VM 접속 및 방화벽 개방 설정
+
+1. 홈페이지 화면 좌측 상단에 ≡ 버튼 클릭 > "Compute Engine" > "VM 인스턴스" 메뉴로 이동합니다.
+2. 앞서 설정한 VM 인스턴스 설정에 입력한 VM의 상태가 초록색 체크표시로 변한 것을 확인합니다.
+3. '외부 IP' 항목에 있는 공인 IP주소는 서버에 접근하고, 게임에 접속하기 위한 IP로 사용되니 메모 또는 기억해 둡니다.
+4. '연결' 탭에 있는 "SSH"를 클릭합니다.
+
+![](/image/g15.png)
+
+5. 승인 창이 생성되면, "Authorize" 버튼을 클릭합니다.
+6. '브라우저에서 SSH를 통해 연결' 창이 생성되면, 아래 10가지 명령어를 차례대로 입력하고 엔터키를 눌러서 실행합니다.
+
+```
+sudo apt update
+sudo apt install netfilter-persistent
+sudo iptables -I INPUT -p tcp --dport 27015 -j ACCEPT
+sudo iptables -I INPUT -p tcp --dport 27016 -j ACCEPT
+sudo iptables -I INPUT -p tcp --dport 25575 -j ACCEPT
+sudo iptables -I INPUT -p udp --dport 27015 -j ACCEPT
+sudo iptables -I INPUT -p udp --dport 27016 -j ACCEPT
+sudo iptables -I INPUT -p udp --dport 25575 -j ACCEPT
+sudo iptables -I INPUT -p udp --dport 8211 -j ACCEPT
+sudo iptables -S
+```
+
+7. 명령어를 모두 입력한 다음 방화벽 개방이 완료되었는지 아래 명령어(대소문자 구분)를 입력하고 확인합니다.
+
+```
+sudo iptables -nL
+```
+
+![](/image/g16.png)
