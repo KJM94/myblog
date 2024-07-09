@@ -123,3 +123,30 @@ sudo iptables -nL
 ```
 
 ![](/image/g16.png)
+
+⑤ SteamCMD 설치 및 게임엔진 설치 방법
+1. Steam CMD 설치 명령어 2개를 차례대로 입력 및 실행합니다.
+
+```
+sudo add-apt-repository multiverse; sudo dpkg --add-architecture i386; sudo apt update
+# 'Press [Enter] to continue or Ctrl-c to cancel'에서 엔터키를 눌러줍니다.
+sudo apt install steamcmd
+# 'Do you want to continue?'에서 키보드 "y" 키를 눌러줍니다.
+```
+
+2. 설치 중간에 'Configuring steamcmd' 창이 생성되면, 키보드 'Tap' 키를 눌러서 "OK" 버튼을 눌러줍니다.
+3. 'STEAM LICENSE AGREEMENT' 창에서는 "I AGREE"를 선택하고, 'Tap' 키를 눌러서 "OK" 버튼을 눌러줍니다.
+
+4. 스팀 CMD 설치를 완료한 다음 게임엔진을 설치하기 위해 아래 명령어를 입력합니다.
+
+```
+steamcmd +login anonymous +app_update 2394010 validate +quit
+```
+
+5. GameEngine 설치 완료 후 SDK64를 설치하기 위해 다음 명령어를 차례대로 입력합니다.
+
+```
+mkdir -p ~/.steam/sdk64/
+steamcmd +login anonymous +app_update 1007 +quit
+cp ~/Steam/steamapps/common/Steamworks\ SDK\ Redist/linux64/steamclient.so ~/.steam/sdk64/
+```
