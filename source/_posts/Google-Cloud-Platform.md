@@ -150,3 +150,36 @@ mkdir -p ~/.steam/sdk64/
 steamcmd +login anonymous +app_update 1007 +quit
 cp ~/Steam/steamapps/common/Steamworks\ SDK\ Redist/linux64/steamclient.so ~/.steam/sdk64/
 ```
+
+⑥ 서버 실행 및 서버 환경 설정 파일 수정 및 커스터마이징
+1. 설치를 모두 완료한 다음 아래 2개 명령어를 입력해서 파일 생성을 위해 이니셜을 최초 1회만 실행합니다.
+
+```
+cd ~/Steam/steamapps/common/PalServer
+./PalServer.sh
+```
+
+2. 서버를 실행한 다음 키보드 "Ctrl + C" 키를 동시 입력해서 서버를 내려줍니다.
+
+3. 서버 설정 파일을 세부적으로 커스터마이징 및 수정할 수 있도록 아래 명령어를 실행합니다.
+
+```
+nano 
+~/Steam/steamapps/common/PalServer/Pal/Saved/Config/LinuxServer/PalWorldSettings.ini
+```
+
+4. 아래 스크립트 내용을 복사한 다음 내용을 수정하고, 다시 수정한 내용을 복사합니다.
+
+```
+[/Script/Pal.PalGameWorldSettings]
+OptionSettings=(Difficulty=None,DayTimeSpeedRate=1.000000,NightTimeSpeedRate=1.000000,ExpRate=1.000000,PalCaptureRate=1.000000,PalSpawnNumRate=1.000000,PalDamageRateAttack=1.000000,PalDamageRateDefense=1.000000,PlayerDamageRateAttack=1.000000,PlayerDamageRateDefense=1.000000,PlayerStomachDecreaceRate=1.000000,PlayerStaminaDecreaceRate=1.000000,PlayerAutoHPRegeneRate=1.000000,PlayerAutoHpRegeneRateInSleep=1.000000,PalStomachDecreaceRate=1.000000,PalStaminaDecreaceRate=1.000000,PalAutoHPRegeneRate=1.000000,PalAutoHpRegeneRateInSleep=1.000000,BuildObjectDamageRate=1.000000,BuildObjectDeteriorationDamageRate=1.000000,CollectionDropRate=1.000000,CollectionObjectHpRate=1.000000,CollectionObjectRespawnSpeedRate=1.000000,EnemyDropItemRate=1.000000,DeathPenalty=All,bEnablePlayerToPlayerDamage=False,bEnableFriendlyFire=False,bEnableInvaderEnemy=True,bActiveUNKO=False,bEnableAimAssistPad=True,bEnableAimAssistKeyboard=False,DropItemMaxNum=3000,DropItemMaxNum_UNKO=100,BaseCampMaxNum=128,BaseCampWorkerMaxNum=15,DropItemAliveMaxHours=1.000000,bAutoResetGuildNoOnlinePlayers=False,AutoResetGuildTimeNoOnlinePlayers=72.000000,GuildPlayerMaxNum=20,PalEggDefaultHatchingTime=72.000000,WorkSpeedRate=1.000000,bIsMultiplay=False,bIsPvP=False,bCanPickupOtherGuildDeathPenaltyDrop=False,bEnableNonLoginPenalty=True,bEnableFastTravel=True,bIsStartLocationSelectByMap=True,bExistPlayerAfterLogout=False,bEnableDefenseOtherGuildPlayer=False,CoopPlayerMaxNum=4,ServerPlayerMaxNum=32,ServerName="Default Palworld Server",ServerDescription="",AdminPassword="12341234",ServerPassword="",PublicPort=8211,PublicIP="",RCONEnabled=False,RCONPort=25575,Region="",bUseAuth=True,BanListURL="https://api.palworldgame.com/api/banlist.txt")
+```
+
+파일 내용을 수정할 때는 팰월드 테크 가이드 페이지의 내용을 참고해서 커스터마이징하시기 바랍니다.
+
+https://tech.palworldgame.com/settings-and-operation/configuration/
+
+5. 복사한 내용을 편집기로 돌아간 다음 검은 화면 위에 마우스 오른쪽 버튼을 클릭하고, "붙여 넣기"를 클릭합니다.
+6. 모든 작업을 완료한 다음 키보드 "Ctrl + X" 키를 입력해서 종료합니다.
+7. 'Save modifield buffer?' 창에서 키보드 "Y"키를 입력하고, 엔터키를 눌러줍니다.
+
