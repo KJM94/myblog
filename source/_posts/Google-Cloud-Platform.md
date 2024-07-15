@@ -221,6 +221,6 @@ cd ~/Steam/steamapps/common/PalServer
 
 이상으로 구글 클라우드 서비스를 이용해서 팰월드 서버 만들기 방법에 대해 모두 설명해 드렸습니다. 게임 화면에서 키보드 "Esc" 키를 입력하고, "옵션" 탭에서 서버 인원수 등의 서버 정보를 확인할 수 있습니다.
 
-
+![](/image/g17.png)
 
 출처 : https://copyking.tistory.com/entry/%ED%8C%B0%EC%9B%94%EB%93%9C-PalWorld-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EA%B5%AC%EA%B8%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C
