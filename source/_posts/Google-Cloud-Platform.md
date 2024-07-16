@@ -8,6 +8,7 @@ categories:
 # 구글 클라우드 플랫폼
 
 ![](/image/xhmb4das.png)
+![](/image/g18.png)
 
 ## 팰월드 서버 만들기
 
