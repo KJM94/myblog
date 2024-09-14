@@ -1,7 +1,7 @@
 ---
 title: Vindictus_Analytics
 date: 2024-09-14 10:50:49
-tags:Game
+tags: Game
 categories:
     - Game
 ---
