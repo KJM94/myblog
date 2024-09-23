@@ -3,7 +3,6 @@ title: Google_Cloud_Platform
 date: 2024-07-02 13:53:56
 tags: Linux Game
 categories:
-    - Linux
     - Game
 ---
 # 구글 클라우드 플랫폼
