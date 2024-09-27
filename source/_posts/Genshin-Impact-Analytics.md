@@ -167,6 +167,8 @@ categories:
 
 코스튬 출시 시 코스튬 컨셉을 담은 코스튬 pv를 먼저 공개해 홍보 효과를 높이고 색다른 맛을 볼 수 있게 한다.
 
+https://www.youtube.com/watch?v=tF9Egt3zL8o
+
 ### 느낀점
 
 
