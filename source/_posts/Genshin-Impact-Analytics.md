@@ -169,7 +169,7 @@ categories:
 
 https://www.youtube.com/watch?v=tF9Egt3zL8o
 
-### 느낀점
+### 정리
 
 
 기본 캐릭터만으로도 모든 컨텐츠를 즐길 수 있고, 경쟁도 존재하지 않는 게임에서 매출을 증가시키고, 지속가능하게 하기 위해서
