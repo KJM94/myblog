@@ -4,7 +4,6 @@ date: 2024-10-07 15:28:10
 tags: BI
 categories:
     - BI
-    - Tableau
 ---
 # 태블로
 
