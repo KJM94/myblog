@@ -11,4 +11,6 @@ categories:
 
 ![](/image/FS.jpg)
 
+원 게시물 링크 : https://kjm94.github.io/2025/03/24/PSG-DA/
+
 pptx : https://github.com/KJM94/GA/blob/main/FSRE/FS_A_RE.pptx
